@@ -1,0 +1,10 @@
+{
+    "name": "com.az.iframe.bridge",
+    "description": "Launch subprocess for iframe link",
+    "path": "/Users/vinayak/chrome.py",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://bbfclnajkgjaicheoihclpgaabidajje/"
+    ]
+  }
+  
